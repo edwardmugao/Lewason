@@ -1,0 +1,26 @@
+ 
+  body  {
+    background: 
+      linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      url('download (1).png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+
+  .card {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  }
+
+  .btn-primary {
+    background-color: #F57C00;
+    border: none;
+  }
+
+  .btn-primary:hover {
+    background-color: #EF6C00;
+  }
+ 
